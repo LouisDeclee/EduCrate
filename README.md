@@ -1,0 +1,2 @@
+# EduCrate
+Ethical AI teacher
